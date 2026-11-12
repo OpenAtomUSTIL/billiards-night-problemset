@@ -1,1 +1,4 @@
 .DS_Store
+
+# 测试数据走 GitHub Release 附件，不入库
+台球之夜-洛谷测试数据.zip
